@@ -2,3 +2,6 @@
 venv/
 # pycharm system folder
 .idea/
+# example files
+python-data-analysis-master/
+
